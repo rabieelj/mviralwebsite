@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 show_hero: true
+paginate: ""
 menu:
   - title: Home
     url: /
@@ -18,5 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - title: Privacy policy
+    url: /Privacy-policy
 email: youremail@xyz.com
 disqus_username: disqus_username
